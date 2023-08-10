@@ -37,9 +37,10 @@ This repository demonstrates how to integrate various Firebase features into an 
 
 To get started, follow the steps outlined in the linked guides to integrate each Firebase feature into your app. The provided sample code demonstrates the integration process.
 
-## Contributing
+## Common mistakes
 
-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or a pull request.
+Please take a look on the page with mistakes I made working on this project:
+- [My mistakes]([https://github.com/NikolayPodonin/CarouselImagesWIthFirebase/wiki/Summary-of-mistakes-I-encountered-during-the-integration-of-Firebase-features-and-how-to-avoid-them:]). 
 
 ## License
 
