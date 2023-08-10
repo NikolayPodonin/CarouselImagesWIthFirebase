@@ -40,7 +40,7 @@ To get started, follow the steps outlined in the linked guides to integrate each
 ## Common mistakes
 
 Please take a look on the page with mistakes I made working on this project:
-- [My mistakes]([https://github.com/NikolayPodonin/CarouselImagesWIthFirebase/wiki/Summary-of-mistakes-I-encountered-during-the-integration-of-Firebase-features-and-how-to-avoid-them:]). 
+- [My mistakes](https://github.com/NikolayPodonin/CarouselImagesWIthFirebase/wiki/Summary-of-mistakes-I-encountered-during-the-integration-of-Firebase-features-and-how-to-avoid-them:). 
 
 ## License
 
